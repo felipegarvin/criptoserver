@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace criptoserver
 {
-    public class Class1
+    public class Server
     {
+        public string Teste { get; set; }
     }
 }
